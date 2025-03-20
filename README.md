@@ -18,7 +18,7 @@ Customer churn analysis helps businesses understand why customers leave and how 
 - `Churn` (Yes/No)
 
 ## Tools & Technologies
-- **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn)
+- **Python** (Pandas, Matplotlib, Seaborn)
 - **Jupyter Notebook** (For data analysis and modeling)
 
 
